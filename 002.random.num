@@ -1,0 +1,11 @@
+#random number
+
+import random
+
+#c=int(input("Enter a num:"))
+
+#to print till 10
+
+n=random.randint(1,10)
+
+print(n)
