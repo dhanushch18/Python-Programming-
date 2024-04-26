@@ -1,0 +1,23 @@
+
+#Calculator
+
+n1=int(input("Enter the first num:"))
+n2=int(input("Enter the second num:"))
+
+
+c=int(input("Select 1-ADDITION,2-SUBSTRACTION,3-MUltiplication,4-DIVISION :-"))
+
+if(c==1):
+    a=n1+n2
+    print(a)
+elif(c==2):
+    b=n1-n2
+    print(b)
+elif(c==3):
+    c=n1*n2
+    print(c)
+elif(c==4):
+    d=n1/n2
+    print(d)
+else:
+    print(invalid)
