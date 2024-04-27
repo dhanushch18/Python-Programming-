@@ -63,7 +63,7 @@ while i<=n:
   print()
   i=i+1
 
-#in while loop
+
 
 1 2 3 4 5 
 1 2 3 4 
